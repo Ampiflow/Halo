@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="preferences-other.svg">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="806"
+     inkscape:window-height="687"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="518.08"
+       x2="402.47"
+       y1="545.15"
+       x1="403.44"
+       id="1">
+      <stop
+         stop-color="#d3d3d3"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#fcf9f9"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.43355,0,0,0.43481,-57.018323,-61.893693)"
+       id="0-7"
+       gradientUnits="userSpaceOnUse"
+       x1="18.6"
+       y1="261.26001"
+       x2="20.030001"
+       y2="155.59">
+      <stop
+         stop-color="#2a2c2f"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#424649"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1.5238131,0,0,1.5238131,-633.33003,-747.73399)"
+       inkscape:collect="always"
+       xlink:href="#1"
+       id="linearGradient4177-6"
+       x1="433.11404"
+       y1="543.0127"
+       x2="433.95944"
+       y2="526.99579"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(1.6013,0,0,1.6013,-614.09842,-790.25491)"
+       inkscape:collect="always"
+       xlink:href="#0-7"
+       id="linearGradient4179-5"
+       gradientUnits="userSpaceOnUse"
+       x1="403.44"
+       y1="545.15002"
+       x2="402.47"
+       y2="518.08002" />
+    <linearGradient
+       gradientTransform="matrix(1.6013,0,0,1.6013,-614.09842,-790.25491)"
+       inkscape:collect="always"
+       xlink:href="#0-7"
+       id="linearGradient4187-4"
+       x1="403.44"
+       y1="545.15002"
+       x2="402.47"
+       y2="518.08002"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="g4237"
+     transform="translate(-3.2542381,-37.220341)">
+    <circle
+       style="fill:url(#linearGradient4179-5);fill-opacity:1;stroke:url(#linearGradient4187-4);stroke-width:2.44038129;stroke-opacity:1"
+       id="circle23-9"
+       cx="27.254238"
+       cy="61.220341"
+       r="22.780094" />
+    <path
+       style="fill:url(#linearGradient4177-6);fill-opacity:1"
+       id="path25-2"
+       d="m 27.197233,56.83933 c -2.532577,0 -4.571439,2.038862 -4.571439,4.571439 0,2.532577 2.038862,4.571439 4.571439,4.571439 2.532578,0 4.57144,-2.038862 4.57144,-4.571439 0,-2.532577 -2.038862,-4.571439 -4.57144,-4.571439 m -11.428598,0 c -2.532577,0 -4.571439,2.038862 -4.571439,4.571439 0,2.532577 2.038862,4.571439 4.571439,4.571439 2.532577,0 4.571439,-2.038862 4.571439,-4.571439 0,-2.532577 -2.038862,-4.571439 -4.571439,-4.571439 m 22.857196,0 c -2.532577,0 -4.571439,2.038862 -4.571439,4.571439 0,2.532577 2.038862,4.571439 4.571439,4.571439 2.532578,0 4.57144,-2.038862 4.57144,-4.571439 0,-2.532577 -2.038862,-4.571439 -4.57144,-4.571439"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

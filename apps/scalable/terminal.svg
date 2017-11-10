@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="square template.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5585">
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="0"
+         id="stop5587" />
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1;"
+         offset="1"
+         id="stop5589" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5585"
+       id="linearGradient5591"
+       x1="92.1875"
+       y1="852.36218"
+       x2="92.1875"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.56"
+     inkscape:cx="31.539418"
+     inkscape:cy="62.569663"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1513"
+     inkscape:window-height="878"
+     inkscape:window-x="2205"
+     inkscape:window-y="108"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,200"
+       id="guide3764" />
+    <sodipodi:guide
+       position="200,0"
+       orientation="-200,0"
+       id="guide3766" />
+    <sodipodi:guide
+       position="200,200"
+       orientation="0,-200"
+       id="guide3768" />
+    <sodipodi:guide
+       position="0,200"
+       orientation="200,0"
+       id="guide3770" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36218)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient5591);fill-opacity:1"
+       id="rect3772"
+       width="200"
+       height="179.67799"
+       x="0"
+       y="861.21716"
+       ry="17"
+       rx="17" />
+    <rect
+       style="opacity:0.85;fill:#0d0d0d;fill-opacity:1"
+       id="rect3772-4"
+       width="193.75"
+       height="174.06305"
+       x="3.125"
+       y="864.02466"
+       ry="16.46875"
+       rx="16.46875" />
+    <g
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text5593">
+      <path
+         d="m 22.485688,918.85868 c -0.816006,10e-6 -1.536005,-0.35999 -2.16,-1.08 -0.576004,-0.76799 -0.864004,-1.53599 -0.864,-2.304 -4e-6,-1.19999 0.767996,-2.20799 2.304,-3.024 l 18.792,-9.576 -18.792,-9.864 c -1.536004,-0.71997 -2.304004,-1.70397 -2.304,-2.952 -4e-6,-0.76796 0.287996,-1.51196 0.864,-2.232 0.623995,-0.76796 1.343994,-1.15196 2.16,-1.152 0.671993,4e-5 1.391992,0.21604 2.16,0.648 l 30.96,15.624 -30.96,15.264 c -0.864008,0.43201 -1.584007,0.64801 -2.16,0.648"
+         style="font-weight:bold;-inkscape-font-specification:FreeMono Bold"
+         id="path5600" />
+      <path
+         d="m 93.98906,916.16062 0,6.13906 -33.043747,0 0,-6.13906 33.043747,0"
+         style="font-size:72px;font-variant:normal;font-stretch:normal;fill:#ffffff;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+         id="path5602"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
