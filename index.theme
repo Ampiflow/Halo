@@ -3,7 +3,7 @@ Name=Halo
 Comment=Halo is an icon theme for Linux desktops, the set is inspired by the latest flat design trend.
 Inherits=
 
-Directories=actions/symbolic,actions/16,actions/22,actions/22x22,actions/24,actions/32,app/symbolic,apps/16,apps/22,apps/scalable,emblems/symbolic,emblems/scalable,devices/symbolic,devices/16,devices/scalable,categories/16,categories/32,categories/48,categories/64,minetypes/symbolic,mimetypes/scalable,places/16,places/22,places/64,status/symbolic,status/22,status/48,status/64
+Directories=actions/symbolic,actions/16,actions/22,actions/22x22,actions/24,actions/32,app/symbolic,apps/16,apps/22,apps/scalable,emblems/symbolic,emblems/scalable,devices/symbolic,devices/16,devices/scalable,categories/16,categories/32,categories/48,categories/64,minetypes/symbolic,mimetypes/scalable,places/16,places/22,places/64,places/symbolic,status/symbolic,status/22,status/48,status/64
 
 FollowsColorScheme=true
 
@@ -181,6 +181,13 @@ Context=Places
 Type=Scalable
 MinSize=16
 MaxSize=512
+
+[places/symbolic]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=fixed
 
 ##############
 
