@@ -15,7 +15,7 @@
    width="256"
    height="256"
    viewBox="0 0 256 256"
-   sodipodi:docname="deepin-boot-maker.svg"
+   sodipodi:docname="nvidia.svg"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
   <metadata
      id="metadata8">
@@ -104,7 +104,7 @@
       </g>
     </clipPath>
     <linearGradient
-       gradientTransform="matrix(2.730216,0,0,2.6466226,458.83214,82.730647)"
+       gradientTransform="matrix(2.730216,0,2.1098073e-8,2.5984169,457.00461,86.251743)"
        gradientUnits="userSpaceOnUse"
        y2="-26.049999"
        x2="-125.19"
@@ -130,12 +130,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-height="704"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.921875"
+     inkscape:zoom="3.9961937"
      inkscape:cx="138.35826"
-     inkscape:cy="171.38983"
+     inkscape:cy="253.39267"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -173,10 +173,10 @@
        id="g53"
        transform="matrix(0.99114373,0.12695208,-0.13636895,0.95561335,16.139548,-9.9507973)">
       <rect
-         y="10.167352"
-         x="-19.68609"
-         style="fill:url(#0);fill-rule:evenodd;stroke-width:5.53111887"
-         height="265.88089"
+         y="15.010119"
+         x="-21.513624"
+         style="fill:url(#0);fill-rule:evenodd;stroke-width:5.480515"
+         height="261.03812"
          width="265.10706"
          rx="16.469776"
          id="rect9"
