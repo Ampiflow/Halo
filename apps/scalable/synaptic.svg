@@ -579,6 +579,15 @@
        y2="10"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.2569133,0,0,1.1386748,-6.3693126,-3.0600924)" />
+    <linearGradient
+       id="d-3"
+       gradientTransform="matrix(0.72247429,0,0,1.429522,-304.00155,-733.48562)"
+       gradientUnits="userSpaceOnUse"
+       x1="451.02078"
+       x2="451.02078"
+       xlink:href="#e-7"
+       y1="544.14978"
+       y2="543.0885" />
   </defs>
   <image
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAsCAYAAAAJpsrIAAAABGdBTUEAA1teXP8meAAAAOhJREFUWAntmc0KAjEMhNv1D0EPvv9DehFEKepMNdLreDA9TGB2226gH5OcsrWUUiHGAsW6HyQ8nrjzwXsJQq0hHjYoM8hBnkaXqB03UHaQgSxLlG+TTTTcT5ZKMEa837vcZ2cJoOymH63oLAE2fphibTC1DHbMjqkOqPnuMTumOqDmu8fsmOqAmu8es2OqA2q+e8yOqQ6o+e4xO6Y6oOa7x+yY6oCa7x771TFOrGeJzhKl5Gz9MAHZEQzfOf8Kmz10ggjHWXtGcJR+gc7QlYNYijCcr28/+38Pi1k+6g7doBZgWM/1y+YFz5wWiu7WQhkAAAAASUVORK5CYII="
@@ -628,4 +637,12 @@
      id="path71"
      d="M 34.322889,46.719727 25.11319,38.224721 c 0,0 -1.366062,-1.264788 0.303945,-1.264788 h 5.003938 V 35.48778 25.515275 c -0.03257,-0.592108 0.0037,-0.641854 0.645073,-0.63886 h 7.796447 c 0.554395,-0.0553 0.683802,0.01644 0.683496,0.543717 v 9.995682 1.544111 l 4.790198,-10e-6 c 1.543569,-3e-6 0.455366,1.057455 0.455366,1.057455 0,0 -7.835595,7.940056 -8.928487,8.77309 -0.786117,0.603745 -1.540277,-0.07075 -1.540277,-0.07075 z"
      inkscape:connector-curvature="0" />
+  <rect
+     style="fill:url(#d-3);stroke-width:1.42952204"
+     height="1.0991223"
+     ry="0.54956114"
+     width="16.387012"
+     x="12.959036"
+     y="43.382645"
+     id="rect51" />
 </svg>
