@@ -165,15 +165,15 @@ MaxSize=256
 
 ##############	Places
 
-[places/16]
-Size=16
-Context=Places
-Type=Fixed
+#[places/16]
+#Size=16
+#Context=Places
+#Type=Fixed
 
-[places/22]
-Size=22
-Context=Places
-Type=Fixed
+#[places/22]
+#Size=22
+#Context=Places
+#Type=Fixed
 
 [places/64]
 Size=64
