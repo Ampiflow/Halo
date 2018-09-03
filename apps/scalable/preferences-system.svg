@@ -16,8 +16,8 @@
    width="256"
    height="256"
    viewBox="0 0 256 256"
-   sodipodi:docname="configuration_section.svg"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+   sodipodi:docname="preferences-system.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -181,11 +181,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-height="699"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.921875"
-     inkscape:cx="138.35826"
+     inkscape:cx="-44.963774"
      inkscape:cy="128"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -225,7 +225,7 @@
        transform="matrix(0.99114373,0.12695208,-0.13636895,0.95561335,16.139548,-9.9507973)">
       <g
          id="g3253"
-         transform="matrix(5.4749615,-0.72734203,0.82526005,5.9980761,-2538.7145,-2715.4555)">
+         transform="matrix(5.3814723,-0.7149221,0.81435722,5.9188331,-2496.1546,-2680.529)">
         <rect
            ry="2.8982184"
            y="503.3967"

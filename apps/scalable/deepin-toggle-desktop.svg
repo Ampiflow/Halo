@@ -12,8 +12,8 @@
    version="1.1"
    width="48"
    height="48"
-   sodipodi:docname="slidewall.svg"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+   sodipodi:docname="deepin-toggle-desktop.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,13 +23,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-width="1360"
+     inkscape:window-height="682"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="20.127604"
-     inkscape:cx="39.945872"
-     inkscape:cy="16.600979"
+     inkscape:zoom="5.031901"
+     inkscape:cx="7.2550328"
+     inkscape:cy="34.891803"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -117,7 +117,7 @@
        x2="25.049994"
        y2="25.362013"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0451663,0,0,1.2301103,-0.88526099,-4.9528251)" />
+       gradientTransform="matrix(1.0451663,0,0,1.2202648,-0.88526099,-4.7444141)" />
   </defs>
   <linearGradient
      y2="502.9836729252"
@@ -137,14 +137,6 @@
        offset="1"
        style="stop-color:#b7e8ff;stop-opacity:1" />
   </linearGradient>
-  <rect
-     style="fill:#484848;fill-opacity:1;stroke-width:1.79258847"
-     id="rect25"
-     y="2.9322205"
-     x="1.2050742"
-     width="45.987312"
-     ry="2.0997436"
-     height="44.619549" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:1;fill:url(#linearGradient861);fill-opacity:1;stroke-width:1.76208293"
@@ -152,9 +144,9 @@
      d="M 2.8380591,2.9322204 H 45.559405 c 0.904676,0 1.632985,0.9049566 1.632985,2.0289226 v 38.925674 c 0,1.123966 -0.728309,2.028773 -1.632985,2.028773 H 2.8380591 c -0.9046741,0 -1.6329847,-0.904807 -1.6329847,-2.028773 V 4.961143 c 0,-1.123966 0.7283106,-2.0289226 1.6329847,-2.0289226 z" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient877);fill-opacity:1;fill-rule:evenodd;stroke-width:1.49382412"
+     style="fill:url(#linearGradient877);fill-opacity:1;fill-rule:evenodd;stroke-width:1.48783386"
      id="path29"
-     d="m 41.316179,21.08604 -6.04012,8.990813 -11.520028,3.925941 -11.019088,-7.799466 -6.1732378,0.728197 -5.3586324,-3.49448 v 20.379108 c 0,1.163243 0.7280859,2.099437 1.6327466,2.099437 H 45.558754 c 0.904661,0 1.632748,-0.936194 1.632748,-2.099437 V 24.215545 Z" />
+     d="m 41.316179,21.08604 -6.04012,8.918852 -11.520028,3.894518 -11.019088,-7.73704 -6.1732378,0.722368 -5.3586324,-3.46651 v 20.215996 c 0,1.153933 0.7280859,2.082634 1.6327466,2.082634 H 45.558754 c 0.904661,0 1.632748,-0.928701 1.632748,-2.082634 V 24.190497 Z" />
   <ellipse
      style="opacity:0.81099997;fill:#ffd911;fill-opacity:1;stroke-width:1.71568763"
      id="circle31"
