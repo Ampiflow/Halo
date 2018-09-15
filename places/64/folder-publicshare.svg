@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="folder-publicshare.svg"
+   sodipodi:docname="folder-public.svg"
    width="68.26667"
    height="68.26667">
   <metadata
@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="699"
+     inkscape:window-height="697"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="5.2149125"
-     inkscape:cx="2.1111426"
+     inkscape:cx="25.734463"
      inkscape:cy="16.601908"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -1830,7 +1830,7 @@
        id="style4511-2">.cls-1{fill:#8e8e8e;}.cls-2{fill:none;stroke:#8e8e8e;stroke-linecap:square;stroke-miterlimit:10;}</style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#d"
+       xlink:href="#linearGradient4454"
        id="linearGradient1583"
        x1="-890.28003"
        y1="504.41501"
@@ -5664,9 +5664,9 @@
        gradientTransform="matrix(1.0973771,0,0,1.0973738,-2.6490865,-5.0069582)" />
   </defs>
   <path
-     d="m 3.9746959,10.905063 c -0.5799158,0 -1.0466316,0.476817 -1.0466316,1.068926 V 32.674078 L 60.721581,32.802323 V 17.258981 c 0,-0.592237 -0.46684,-1.068924 -1.046757,-1.068924 H 26.394223 c -1.066814,0.09631 -1.204335,-0.04835 -1.731474,-0.767037 -0.747648,-1.021858 -1.876515,-2.749966 -2.612504,-3.746047 -0.590697,-0.87271 -0.686598,-0.772038 -1.666287,-0.772038 z"
+     d="m 3.9714402,10.905063 c -0.5781119,0 -1.0433759,0.476817 -1.0433759,1.068926 V 32.674078 L 60.541808,32.802323 V 17.258981 c 0,-0.592237 -0.465388,-1.068924 -1.043501,-1.068924 H 26.321229 c -1.063496,0.09631 -1.200588,-0.04835 -1.726088,-0.767037 -0.745322,-1.021858 -1.870678,-2.749966 -2.604378,-3.746047 -0.588859,-0.87271 -0.684462,-0.772038 -1.661103,-0.772038 z"
      id="path16"
-     style="color:#000000;fill:#b30045;fill-opacity:1;fill-rule:evenodd;stroke-width:0.12679455"
+     style="color:#000000;fill:#b30045;fill-opacity:1;fill-rule:evenodd;stroke-width:0.12659718"
      inkscape:connector-curvature="0" />
   <rect
      y="3.0430021"
